@@ -1,0 +1,61 @@
+body {
+    font-family: Verdana;
+}
+
+.title {
+    text-align: center;
+    color: blue;
+    font-family: Papyrus;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.spantitle {
+    font-style: italic;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+ol {
+    list-style: none;
+    padding-left: 20px;
+}
+
+ol li {
+    background: url('C:\Users\gsidi\Downloads\smile') no-repeat 0 50%;
+    padding-left: 30px;
+    line-height: 1.5em;
+}
+
+#hautDePage {
+    text-align: right;
+}
+
+a:visited {
+    color: red;
+}
+
+.c1 {
+    font-weight: bold;
+    color: blue;
+    font-family: 'Cursive', sans-serif;
+}
+
+.c2 {
+    font-style: italic;
+    color: green;
+}
+
+ul > li {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+p > a {
+    text-decoration: none;
+    color: inherit;
+}
+#d {
+    text-decoration: none;
+    color: black;
+}
